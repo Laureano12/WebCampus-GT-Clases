@@ -22,8 +22,13 @@ export function Event() {
                 <li> fecha: {date}</li>
                 <li> empieza a las: {stargingHour} </li>
                 <li> termina a las: {endingHour}</li>
+<<<<<<< HEAD
                 <li> Creado pos: {creator}</li>
             </ul>
+=======
+                <li> Creado por: {creator}</li>
+            </ul>  
+>>>>>>> 296de6098e4dce0bd2179b8ec1cb2c5394739f6c
         </>
     )
 }
